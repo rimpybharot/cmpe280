@@ -1,4 +1,4 @@
-Web UI and Development - Assignment - 1
+Web UI and Development - Assignment
 
 Team :
 1. Rimpy Bharot
